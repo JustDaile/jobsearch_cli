@@ -21,8 +21,6 @@ The intended usage of this program is to save the output to a file.
 
 You can use `make` on windows or linux to run and build this project.
 
-TODO: Add windows make installation documentation.
-
 - See full list of make commands by running `make list` from the project root.
 
 ## Compile
